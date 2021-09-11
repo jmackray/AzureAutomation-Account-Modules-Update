@@ -1,4 +1,4 @@
-﻿<#
+﻿<#AzureAutomation-Account-Modules-Update/Update-AutomationAzureModulesForAccount.ps1
 Copyright (c) Microsoft Corporation. All rights reserved.
 Licensed under the MIT License.
 #>
